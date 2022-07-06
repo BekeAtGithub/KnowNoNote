@@ -1,5 +1,5 @@
-# initialize GUI
-#root widget
+## initialize GUI
+##root widget
 from tkinter.scrolledtext import ScrolledText
 
 
