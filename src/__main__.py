@@ -29,7 +29,7 @@ b2=Button(root,text="clear",command=clear)
 b2.place(x=70,y=10)
 
 b3=Button(root,text="open file",command=open_file)
-b3.place(x=120,y=10)
+b3.place(x=110,y=10)
 
 entry=Text(root,height=33,width=58,wrap=WORD)
 entry.place(x=10,y=50)
